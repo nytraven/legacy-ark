@@ -1,0 +1,81 @@
+630601751,760880376,747539326,764755314,668239751,699984901,558651608,710659758,727103191,543859212,538827119,566887000,569786012,770854372,756389708,600705968,639066374
+
+Resource Stacks (630601751)
+http://steamcommunity.com/sharedfiles/filedetails/?id=630601751
+
+Resource Stacks Scorched Earth (760880376)
+https://steamcommunity.com/sharedfiles/filedetails/?id=760880376
+
+Capitalism Currency (747539326)
+http://steamcommunity.com/sharedfiles/filedetails/?id=747539326
+
+Castles, Keeps, and Forts Architecture (764755314)
+http://steamcommunity.com/sharedfiles/filedetails/?id=764755314
+
+Medieval Structures (668239751)
+http://steamcommunity.com/sharedfiles/filedetails/?id=668239751
+
+Medieval Tavern (699984901)
+http://steamcommunity.com/sharedfiles/filedetails/?id=699984901
+
+Bridge (558651608)
+http://steamcommunity.com/sharedfiles/filedetails/?id=558651608
+
+APS: ARK Postal Service (710659758)
+http://steamcommunity.com/sharedfiles/filedetails/?id=710659758
+
+Primitive Survival Equipment+ (727103191)
+http://steamcommunity.com/sharedfiles/filedetails/?id=727103191
+
+Auto Torch (543859212)
+http://steamcommunity.com/sharedfiles/filedetails/?id=543859212
+
+Omnicular (538827119)
+https://steamcommunity.com/sharedfiles/filedetails/?id=538827119
+
+Pet Finder (566887000)
+http://steamcommunity.com/sharedfiles/filedetails/?id=566887000
+
+Meat Spoiler (569786012)
+http://steamcommunity.com/sharedfiles/filedetails/?id=569786012
+
+Armour Stand (770854372)
+http://steamcommunity.com/sharedfiles/filedetails/?id=770854372
+
+Builder's Helmet (756389708)
+http://steamcommunity.com/sharedfiles/filedetails/?id=756389708
+
+ORP2 - Offline Raid Protection (600705968)
+http://steamcommunity.com/sharedfiles/filedetails/?id=600705968
+
+PvP Safe Zones (639066374)
+http://steamcommunity.com/sharedfiles/filedetails/?id=639066374
+
+
+
+-- Removed --
+RAWR Beacons (557147187) ** Outdated
+http://steamcommunity.com/sharedfiles/filedetails/?id=557147187
+
+Uber Crafter (WIP) (752691369) ** Unnecessary
+http://steamcommunity.com/sharedfiles/filedetails/?id=752691369
+
+Echo's OCD Stacking Storage (757669231) ** Crashes Server
+http://steamcommunity.com/sharedfiles/filedetails/?id=757669231
+
+Meshky's Structures and Building Tweaks (712928800) ** Unnecessary  256 MB
+http://steamcommunity.com/sharedfiles/filedetails/?id=712928800
+
+ecoRPdecor (741203089) ** Unnecessary 1GB
+http://steamcommunity.com/sharedfiles/filedetails/?id=741203089
+
+
+-- Future --
+
+
+Capitalism Advanced Player Table (775863282)
+http://steamcommunity.com/sharedfiles/filedetails/?id=775863282
+
+Capitalism Cooled Player Table (769766422)
+http://steamcommunity.com/sharedfiles/filedetails/?id=769766422
+
