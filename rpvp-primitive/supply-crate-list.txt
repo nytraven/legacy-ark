@@ -150,7 +150,6 @@ Primal Blue : SupplyCrate_Level25_C : level 25+ (2-3)
 		- Beelzebufo Saddle [1-2] 25%
 	- Structures
 		- Medium Crop Plot
-		- PrimalItemStructure_Brazier_Meshky
 		- PrimalItemStructure_Mailbox
 	- Resources
 		- PrimalItemResource_RimasPowder_SamKO (3-6)
@@ -409,8 +408,6 @@ Scorched White : SupplyCrate_Level03_ScorchedEarth_C : level 3+ (2-3)
 		- PrimalItemStructure_AutoWallTorch (1-3)
 		- PrimalItemStructure_AutoTorchTimer (1-3)
 		- PrimalItemStructure_AutoWallTorchTimer (1-3)
-		- PrimalItemStructure_OCDWood_SM
-		- PrimalItemStructure_OCDWood_MD
 	- Resources (1-3)
 		- Wood (10-25)
 		- Thatch (10-25)
@@ -466,7 +463,6 @@ Scorched Green : SupplyCrate_Level15_ScorchedEarth_C : level 15+ (2-3)
 		- Cooking Pot
 		- Refining Forge
 		- Basic Gravestone
-		- PrimalItemStructure_OCDWood_LG
 		- Water Well
 		- Vessel
 	- Resources (1-3)
@@ -526,7 +522,6 @@ Scorched Blue : SupplyCrate_Level30_ScorchedEarth_C : level 30+ (2-3)
 		- Anklyo Saddle [1-2] 25%
 	- Structures (1-3)
 		- Medium Crop Plot
-		- PrimalItemStructure_Brazier_Meshky
 		- PrimalItemStructure_Mailbox
 		- Large Crop Plot
 		- Stone Fireplace
