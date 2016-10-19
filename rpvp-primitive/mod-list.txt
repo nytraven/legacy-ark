@@ -1,6 +1,4 @@
-630601751,760880376,747539326,764755314,668239751,699984901,633831197,558651608,710659758,727103191,543859212,538827119,566887000,569786012,760561402,771708872,756124455,770854372,756389708,600705968,639066374
-
-New: 760561402,771708872,756124455
+630601751,760880376,764755314,633831197,558651608,727103191,538827119,566887000,569786012,756124455,770854372,756389708,600705968,639066374
 
 
 Resource Stacks (630601751)
@@ -9,17 +7,8 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=630601751
 Resource Stacks Scorched Earth (760880376)
 https://steamcommunity.com/sharedfiles/filedetails/?id=760880376
 
-Capitalism Currency (747539326)
-http://steamcommunity.com/sharedfiles/filedetails/?id=747539326
-
 Castles, Keeps, and Forts Architecture (764755314)
 http://steamcommunity.com/sharedfiles/filedetails/?id=764755314
-
-Medieval Structures (668239751)
-http://steamcommunity.com/sharedfiles/filedetails/?id=668239751
-
-Medieval Tavern (699984901)
-http://steamcommunity.com/sharedfiles/filedetails/?id=699984901
 
 Bulk Crafters (633831197)
 http://steamcommunity.com/sharedfiles/filedetails/?id=633831197
@@ -27,14 +16,8 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=633831197
 Bridge (558651608)
 http://steamcommunity.com/sharedfiles/filedetails/?id=558651608
 
-APS: ARK Postal Service (710659758)
-http://steamcommunity.com/sharedfiles/filedetails/?id=710659758
-
 Primitive Survival Equipment+ (727103191)
 http://steamcommunity.com/sharedfiles/filedetails/?id=727103191
-
-Auto Torch (543859212)
-http://steamcommunity.com/sharedfiles/filedetails/?id=543859212
 
 Omnicular (538827119)
 https://steamcommunity.com/sharedfiles/filedetails/?id=538827119
@@ -44,12 +27,6 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=566887000
 
 Meat Spoiler (569786012)
 http://steamcommunity.com/sharedfiles/filedetails/?id=569786012
-
-Rotten Box (760561402)
-http://steamcommunity.com/sharedfiles/filedetails/?id=760561402
-
-Marker Beams (771708872)
-http://steamcommunity.com/sharedfiles/filedetails/?id=771708872
 
 Skilled Saddles (756124455)
 http://steamcommunity.com/sharedfiles/filedetails/?id=756124455
@@ -68,7 +45,8 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=639066374
 
 
 
--- Removed --
+-- Removed ----------------------------------------------------
+
 RAWR Beacons (557147187) ** Outdated
 http://steamcommunity.com/sharedfiles/filedetails/?id=557147187
 
@@ -84,13 +62,26 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=712928800
 ecoRPdecor (741203089) ** Unnecessary 1GB
 http://steamcommunity.com/sharedfiles/filedetails/?id=741203089
 
+--
 
--- Future --
+Capitalism Currency (747539326) ** Unnecessary
+http://steamcommunity.com/sharedfiles/filedetails/?id=747539326
 
+Medieval Structures (668239751)
+http://steamcommunity.com/sharedfiles/filedetails/?id=668239751
 
-Capitalism Advanced Player Table (775863282)
-http://steamcommunity.com/sharedfiles/filedetails/?id=775863282
+Medieval Tavern (699984901)
+http://steamcommunity.com/sharedfiles/filedetails/?id=699984901
 
-Capitalism Cooled Player Table (769766422)
-http://steamcommunity.com/sharedfiles/filedetails/?id=769766422
+APS: ARK Postal Service (710659758) ** Unnecessary
+http://steamcommunity.com/sharedfiles/filedetails/?id=710659758
+
+Auto Torch (543859212) ** Redundant with Bulk Torches
+http://steamcommunity.com/sharedfiles/filedetails/?id=543859212
+
+Rotten Box (760561402) ** Too Slow
+http://steamcommunity.com/sharedfiles/filedetails/?id=760561402
+
+Marker Beams (771708872) ** Unnecessary
+http://steamcommunity.com/sharedfiles/filedetails/?id=771708872
 
