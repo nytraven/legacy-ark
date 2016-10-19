@@ -1,5 +1,6 @@
-630601751,760880376,764755314,633831197,558651608,727103191,538827119,566887000,569786012,756124455,770854372,756389708,600705968,639066374
+630601751,760880376,764755314,633831197,743217220,558651608,703724165,727103191,693416678,538827119,566885854,566887000,569786012,756124455,770854372,756389708,600705968,639066374
 
+NEW: 566885854,743217220,693416678,703724165
 
 Resource Stacks (630601751)
 http://steamcommunity.com/sharedfiles/filedetails/?id=630601751
@@ -13,14 +14,26 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=764755314
 Bulk Crafters (633831197)
 http://steamcommunity.com/sharedfiles/filedetails/?id=633831197
 
+Extra Large Storage Box (743217220)
+http://steamcommunity.com/sharedfiles/filedetails/?id=743217220
+
 Bridge (558651608)
 http://steamcommunity.com/sharedfiles/filedetails/?id=558651608
+
+Versatile Raft Mod (703724165)
+http://steamcommunity.com/sharedfiles/filedetails/?id=703724165
 
 Primitive Survival Equipment+ (727103191)
 http://steamcommunity.com/sharedfiles/filedetails/?id=727103191
 
+Reusable Plus (693416678)
+http://steamcommunity.com/sharedfiles/filedetails/?id=693416678
+
 Omnicular (538827119)
 https://steamcommunity.com/sharedfiles/filedetails/?id=538827119
+
+Death Helper (566885854)
+http://steamcommunity.com/sharedfiles/filedetails/?id=566885854
 
 Pet Finder (566887000)
 http://steamcommunity.com/sharedfiles/filedetails/?id=566887000
