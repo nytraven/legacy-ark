@@ -14,32 +14,31 @@ Double = 2-2.5 (x1.8 = 3.6-4.5)
 -----------------------------------------------------------------
 (quantity) [quality] blueprint%/BP (blueprint only)
 
-Primal White : SupplyCrate_Level03_C : level 3+ (2-3)
-	- Armor (5-5)
-		- Cloth [1-2] 25%
-	- Weapons/Ammo
-		- Spear (1-4)
-	- Supplies/Tools 
-		- Hide Sleeping Bag (1-3)
-		- Spyglass
+Primal White : SupplyCrate_Level03_C : level 3+ (2-4)
 	- Saddles
 		- Phiomia Saddle [1-2] 25%
 		- Ichthyosaurus Saddle [1-2] 25%
 		- Parasaur Saddle [1-2] 25%
-	- Structures (1-3)
-		- Storage Box
-		- Campfire
-		- Wooden Spike Wall (1-3)
-		- PrimalItemStructure_PortableMortarAndPestle_SamKO
-		- PrimalItemStructure_BulkTorch (1-3)
-		- PrimalItemStructure_BulkWallTorch (1-3)
-	- Resources (1-3)
-		- Wood (10-25)
-		- Thatch (10-25)
-		- Stone (10-25)
-		- Flint (10-25)
-		- Sparkpowder (5-10)
+	* Resources (1-3)
+		- Wood (5-10)
+		- Thatch (5-10)
+		- Stone (5-10)
+		- Flint (5-10)
 		- Crystal (5-10)
+		- Chitin (5-10)
+		- Keratin (5-10)
+		- Hide (5-10)
+		- Fiber (5-10)
+		- Narcoberries (5-10)
+	* Eggs
+		- Dilo
+		- Dodo
+		- Parasaur
+	* Special Crops
+		- Citronal (5-10)
+		- Longrass (5-10)
+		- Rockarrot (5-10)
+		- Savoroot (5-10)
 
 	
 Primal White Double : SupplyCrate_Level03_Double_C : level 3+ (1-1)
@@ -51,42 +50,28 @@ Primal White Double : SupplyCrate_Level03_Double_C : level 3+ (1-1)
 		- Parasaur Saddle [1.4] BP
 	
 
-Primal Green : SupplyCrate_Level15_C : level 15+ (2-3)
-	- Armor (5-5)
-		- Hide [1-2] 25%
-		- Scuba [1-2] 25%
-			- PrimalItemArmor_PScubaGogglesSnorkel_SamKO
-			- PrimalItemArmor_PScubaFlippers_SamKO
-	- Weapons/Ammo (1-3)
-		- PrimalItem_WeaponKeratinSword_SamKO [1-2] 25%
-		- PrimalItemArmor_ChitinShield_SamKO [1-2] 25%
-		- Bow [1-2] 25%
-		- Stone Arrow (5-10)
-		- Tranquilizer Arrow (5-10)
-		- PrimalItem_WeaponKeratinSpear_SamKO (1-3)
-		- PrimalItem_WeaponTranqKeratinSpear_SamKO (1-3)
-	- Supplies/Tools (1-2)
-		- PrimalItem_WeaponKeratinPick_SamKO [1-2] 25%
-		- PrimalItem_WeaponChitinHatchet_SamKO [1-2] 25%
-		- PrimalItem_WeaponKeratinSickle_SamKO [1-2] 25%
-		- Parachute
-		- Fishing Rod [1-2] 25%
+Primal Green : SupplyCrate_Level15_C : level 15+ (2-4)
+	- Scuba [2-2] 25%
+		- PrimalItemArmor_PScubaGogglesSnorkel_SamKO
+		- PrimalItemArmor_PScubaFlippers_SamKO
 	- Saddles
 		- Pachy Saddle [1-2] 25%
 		- Raptor Saddle [1-2] 25%
 		- Trike Saddle [1-2] 25%
-	- Structures (1-2)
-		- Simple Bed
-		- Large Storage Box
-		- Bookshelf
-		- Preserving Bin
-		- Basic Gravestone
-	- Resources (1-2)
+	* Resources (1-3)
 		- PrimalItemResource_RimasPowder_SamKO (1-3)
-		- Sparkpowder (10-25)
-		- Gunpowder (10-25)
-		- Cement Paste (10-25)
-		- Crystal (10-25)
+		- Crystal (10-20)
+		- Chitin (10-20)
+		- Keratin (10-20)
+		- Hide (10-20)
+		- Narcoberries (10-20)
+	* Eggs
+		- Carno
+		- Dilo
+		- Pachy
+		- Parasaur
+		- Raptor
+		- Trike
 
 
 Primal Green Double : SupplyCrate_Level15_Double_C : level 15+ (1-1)
@@ -110,22 +95,7 @@ Primal Green Double : SupplyCrate_Level15_Double_C : level 15+ (1-1)
 		- Trike Saddle [1.4] BP
 
 
-Primal Blue : SupplyCrate_Level25_C : level 25+ (2-3)
-	- Armor (5-5)
-		- Fur [1-2] 25%
-	- Weapons/Ammo (1-3)
-		- Pike [1-2] 25%
-		- Metal Sword [1-2] 25%
-		- Metal Shield [1-2] 25%
-		- Crossbow [1-2] 25%
-		- Stone Arrow (10-20)
-		- Tranquilizer Arrow (10-20)
-	- Supplies/Tools (1-2)
-		 - Metal Hatchet [1-2] 25%
-		 - Metal Pick [1-2] 25%
-		 - Metal Sickle [1-2] 25%
-		 - PrimalItem_WeaponBinoglass
-		 - PrimalItem_WeaponOmnicular
+Primal Blue : SupplyCrate_Level25_C : level 25+ (2-4)
 	- Saddles
 		- Manta Saddle [1-2] 25%
 		- Pulmonoscorplus Saddle [1-2] 25%
@@ -136,11 +106,21 @@ Primal Blue : SupplyCrate_Level25_C : level 25+ (2-3)
 		- Stego Saddle [1-2] 25%
 		- Megaloceros [1-2] 25%
 		- Beelzebufo Saddle [1-2] 25%
-	- Structures
-		- Medium Crop Plot
-	- Resources
-		- PrimalItemResource_RimasPowder_SamKO (3-6)
-
+	* Resources
+		- Angler Gel (10-20)
+		- Pelt (10-20)
+	* Eggs
+		- Carbonemys (Turtle)
+		- Dilo
+		- Dimorph
+		- Gallimimus
+		- Pachy
+		- Pteranodon
+		- Pulmonoscorplus
+		- Sarco
+		- Stego
+		- Terror Bird
+		
 
 Primal Cave 1 : SupplyCrate_Cave_QualityTier1_C (1-1)
 Primal Swamp Blue : SupplyCrate_SwampCaveTier1_C (1-1)
@@ -169,20 +149,7 @@ Primal Blue Double : SupplyCrate_Level25_Double_C : level 25+ (1-1)
 		- Beelzebufo Saddle [1.4] BP
 
 
-Primal Purple : SupplyCrate_Level35_C : level 35+ (2-3)
-	- Armor (5-5)
-		- Chitin [1-2] 25%
-		- Ghillie [1-2] 25%
-	- Weapons/Ammo (1-3)
-		- PrimalItem_WeaponObsidianPike_SamKO [1-2] 25%
-		- PrimalItem_WeaponObsidianSword_SamKO [1-2] 25%
-		- PrimalItemArmor_ObsidianShield_SamKO [1-2] 25%
-		- PrimalItem_WeaponLongBow_SamKO [1-2] 25%
-		- PrimalItemAmmo_LongbowArrow_SamKO (5-10)
-		- Shotgun [1-2] 25%
-		- Simple Shotgun Ammo (2-4)
-	- Supplies/Tools
-		 - PrimalItem_WeaponObsidianMultiTool_SamKO [1-2] 25%
+Primal Purple : SupplyCrate_Level35_C : level 35+ (2-4)
 	- Saddles
 		- Dire Bear Saddle [1-2] 25%
 		- Sarco Saddle [1-2] 25%
@@ -193,11 +160,24 @@ Primal Purple : SupplyCrate_Level35_C : level 35+ (2-3)
 		- Dunkleosteus Saddle [1-2] 25%
 		- Anklyo Saddle [1-2] 25%
 		- Pteranodon Saddle [1-2] 25%
-	- Structures
-		- Large Crop Plot (1-3)
-	- Resources
-		- PrimalItemResource_ObsidianIngot_SamKO (1-10)
-		- PrimalItemResource_CrystalIngot_SamKO (1-10)
+	* Resources
+		- Chitin (10-20)
+		- Organic Polymer (10-20)
+		- Obsidian (10-20)
+	* Eggs
+		- Araneo
+		- Carno
+		- Compy
+		- Dilo 
+		- Diplo
+		- Dodo
+		- Lystro
+		- Pelagornis
+		- Pteranodon
+		- Raptor
+		- Sarco
+		- Titanboa
+		- Trike
 
 		
 Primal Cave 2 : SupplyCrate_Cave_QualityTier2_C (1-1)
@@ -226,20 +206,6 @@ Primal Purple Double : SupplyCrate_Level35_Double_C : level 35+ (1-1)
 
 
 Primal Yellow : SupplyCrate_Level45_C : level 45+ (2-3)
-	- Armor (5-5)
-		- Flak [1-2] 25%
-	- Weapons/Ammo (1-3)
-		- PrimalItem_WeaponObsidianPike_SamKO [2-3] 25%
-		- PrimalItem_WeaponObsidianSword_SamKO [2-3] 25%
-		- PrimalItemArmor_ObsidianShield_SamKO [2-3] 25%
-		- PrimalItem_WeaponLongBow_SamKO [2-3] 25%
-		- PrimalItemAmmo_LongbowArrow_SamKO (10-20)
-		- PrimalItemAmmo_LongbowArrowTranq_SamKO (10-20)
-		- Grappling Hook (1-3)
-		- Shotgun [2-3] 25%
-		- Simple Shotgun Ammo (4-8)
-	- Supplies/Tools
-		- PrimalItem_WeaponObsidianMultiTool_SamKO [2-3] 25%
 	- Saddles
 		- Woolly Rhino Saddle [1-2] 25%
 		- Paracer Platform Saddle [1-2] 25%
@@ -252,11 +218,20 @@ Primal Yellow : SupplyCrate_Level45_C : level 45+ (2-3)
 		- Castoroides Saddle [1-2] 25%
 		- Argentavis Saddle [1-2] 25%
 		- Megalodon Saddle [1-2] 25%
-	- Structures
-		- War Map
-	- Resources
-		- PrimalItemResource_ObsidianIngot_SamKO (10-15)
-		- PrimalItemResource_CrystalIngot_SamKO (10-15)
+	* Resources
+		- Rare Flower (5-10)
+		- Rare Mushroom (5-10)
+		- Plant Species X (5-10)
+	* Eggs
+		- Allosaurus
+		- Argentavis
+		- Bronto
+		- Diplo
+		- Gallimimus
+		- Spino
+		- Stego
+		- Terror Bird
+		- Turtle
 
 
 Primal Cave 3 : SupplyCrate_Cave_QualityTier3_C (1-1)
@@ -287,15 +262,7 @@ Primal Yellow Double : SupplyCrate_Level45_Double_C : level 45+ (1-1)
 		- Megalodon Saddle [1.4] BP
 
 
-Primal Red : SupplyCrate_Level60_C : level 60+ (2-3)
-	- Armor (5-5)
-		- Flak [2-3] 25%
-	- Weapons/Ammo 
-		- PrimalItem_WeaponCrystalPike_SamKO [1-2] 25%
-		- PrimalItem_WeaponCrystalSword_SamKO [1-2] 25%
-		- PrimalItemArmor_CrystalShield_SamKO [1-2] 25%
-	- Supplies/Tools
-		 - PrimalItem_WeaponObsidianMultiTool_SamKO [2-3] 25%
+Primal Red : SupplyCrate_Level60_C : level 60+ (2-2)
 	- Saddles
 		- Plesiosaur Saddle [1-2] 25%
 		- Plesiosaur Platform Saddle [1-2] 25%
@@ -304,10 +271,11 @@ Primal Red : SupplyCrate_Level60_C : level 60+ (2-3)
 		- Bronto Platform Saddle [1-2] 25%
 		- Mosasaur Saddle [1-2] 25%
 		- Mosasaur Platform Saddle [1-2] 25%
-	- Structures
-	- Resources
-		- PrimalItemResource_ObsidianIngot_SamKO (20-30)
-		- PrimalItemResource_CrystalIngot_SamKO (20-30)
+	* Eggs
+		- Argentavis
+		- Pulmonoscorpius
+		- Quetzal
+		- Rex
 
 
 Primal Cave 4 : SupplyCrate_Cave_QualityTier4_C (1-1)
