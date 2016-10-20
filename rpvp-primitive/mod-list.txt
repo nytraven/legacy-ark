@@ -1,6 +1,6 @@
-630601751,760880376,764755314,633831197,743217220,558651608,703724165,727103191,693416678,538827119,566885854,566887000,569786012,756124455,770854372,756389708,600705968,639066374
+630601751,760880376,764755314,741203089,764241499,633831197,743217220,558651608,703724165,727103191,693416678,538827119,566885854,566887000,569786012,756124455,770854372,756389708,600705968,639066374,671677522,771708872
 
-NEW: 566885854,743217220,693416678,703724165
+TO INSTALL/UPDATE: 771708872
 
 Resource Stacks (630601751)
 http://steamcommunity.com/sharedfiles/filedetails/?id=630601751
@@ -10,6 +10,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=760880376
 
 Castles, Keeps, and Forts Architecture (764755314)
 http://steamcommunity.com/sharedfiles/filedetails/?id=764755314
+
+ecoRPdecor (741203089)
+http://steamcommunity.com/sharedfiles/filedetails/?id=741203089
+
+eco's Scorched Earth Decor (764241499)
+http://steamcommunity.com/sharedfiles/filedetails/?id=764241499
 
 Bulk Crafters (633831197)
 http://steamcommunity.com/sharedfiles/filedetails/?id=633831197
@@ -56,6 +62,11 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=600705968
 PvP Safe Zones (639066374)
 http://steamcommunity.com/sharedfiles/filedetails/?id=639066374
 
+Founder Stone (671677522) ** Admin Spawn Only
+http://steamcommunity.com/sharedfiles/filedetails/?id=671677522
+
+Marker Beams (771708872) ** Admin Spawn Only
+http://steamcommunity.com/sharedfiles/filedetails/?id=771708872
 
 
 -- Removed ----------------------------------------------------
@@ -94,7 +105,4 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=543859212
 
 Rotten Box (760561402) ** Too Slow
 http://steamcommunity.com/sharedfiles/filedetails/?id=760561402
-
-Marker Beams (771708872) ** Unnecessary
-http://steamcommunity.com/sharedfiles/filedetails/?id=771708872
 
