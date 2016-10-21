@@ -1,6 +1,6 @@
-630601751,760880376,764755314,741203089,764241499,633831197,743217220,558651608,703724165,727103191,693416678,538827119,566885854,566887000,569786012,756124455,770854372,756389708,600705968,639066374,671677522,771708872
+630601751,760880376,764755314,741203089,764241499,633831197,543859212,743217220,558651608,703724165,727103191,693416678,538827119,566885854,566887000,569786012,756124455,770854372,756389708,600705968,639066374,671677522,771708872
 
-TO INSTALL/UPDATE: 771708872
+TO INSTALL/UPDATE: 543859212
 
 Resource Stacks (630601751)
 http://steamcommunity.com/sharedfiles/filedetails/?id=630601751
@@ -19,6 +19,9 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=764241499
 
 Bulk Crafters (633831197)
 http://steamcommunity.com/sharedfiles/filedetails/?id=633831197
+
+Auto Torch (543859212)
+http://steamcommunity.com/sharedfiles/filedetails/?id=543859212
 
 Extra Large Storage Box (743217220)
 http://steamcommunity.com/sharedfiles/filedetails/?id=743217220
@@ -83,11 +86,6 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=757669231
 Meshky's Structures and Building Tweaks (712928800) ** Unnecessary  256 MB
 http://steamcommunity.com/sharedfiles/filedetails/?id=712928800
 
-ecoRPdecor (741203089) ** Unnecessary 1GB
-http://steamcommunity.com/sharedfiles/filedetails/?id=741203089
-
---
-
 Capitalism Currency (747539326) ** Unnecessary
 http://steamcommunity.com/sharedfiles/filedetails/?id=747539326
 
@@ -99,9 +97,6 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=699984901
 
 APS: ARK Postal Service (710659758) ** Unnecessary
 http://steamcommunity.com/sharedfiles/filedetails/?id=710659758
-
-Auto Torch (543859212) ** Redundant with Bulk Torches
-http://steamcommunity.com/sharedfiles/filedetails/?id=543859212
 
 Rotten Box (760561402) ** Too Slow
 http://steamcommunity.com/sharedfiles/filedetails/?id=760561402
