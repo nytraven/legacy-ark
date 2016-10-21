@@ -1,12 +1,15 @@
-630601751,760880376,764755314,741203089,764241499,633831197,543859212,743217220,558651608,703724165,727103191,693416678,538827119,566885854,566887000,569786012,774315905,756124455,770854372,756389708,600705968,639066374,671677522,771708872,733089781
+630601751,760880376,760884349,764755314,741203089,764241499,633831197,543859212,743217220,558651608,703724165,727103191,693416678,538827119,566885854,566887000,569786012,774315905,756124455,770854372,756389708,600705968,708257555,639066374,671677522,771708872,733089781
 
-TO INSTALL/UPDATE: 774315905,733089781
+TO INSTALL/UPDATE: 741203089,708257555
 
 Resource Stacks (630601751)
 http://steamcommunity.com/sharedfiles/filedetails/?id=630601751
 
 Resource Stacks Scorched Earth (760880376)
 https://steamcommunity.com/sharedfiles/filedetails/?id=760880376
+
+Stackable Foundations (760884349)
+http://steamcommunity.com/sharedfiles/filedetails/?id=760884349
 
 Castles, Keeps, and Forts Architecture (764755314)
 http://steamcommunity.com/sharedfiles/filedetails/?id=764755314
@@ -65,7 +68,10 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=756389708
 ORP2 - Offline Raid Protection (600705968)
 http://steamcommunity.com/sharedfiles/filedetails/?id=600705968
 
-PvP Safe Zones (639066374)
+Color Blind Friendly Supply Drops (708257555)
+http://steamcommunity.com/sharedfiles/filedetails/?id=708257555
+
+PvP Safe Zones (639066374) ** Admin Spawn Only
 http://steamcommunity.com/sharedfiles/filedetails/?id=639066374
 
 Founder Stone (671677522) ** Admin Spawn Only
@@ -74,7 +80,7 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=671677522
 Marker Beams (771708872) ** Admin Spawn Only
 http://steamcommunity.com/sharedfiles/filedetails/?id=771708872
 
-Natural Babies (733089781)
+Natural Babies (733089781) ** Admin Spawn Only
 http://steamcommunity.com/sharedfiles/filedetails/?id=733089781
 
 
