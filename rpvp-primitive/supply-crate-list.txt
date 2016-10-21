@@ -30,11 +30,11 @@ Primal White : SupplyCrate_Level03_C : level 3+ (2-4)
 		- Hide (5-10)
 		- Fiber (5-10)
 		- Narcoberries (5-10)
-	* Eggs
+	* Eggs (1-2)
 		- Dilo
 		- Dodo
 		- Parasaur
-	* Special Crops
+	* Special Crops (1-2)
 		- Citronal (5-10)
 		- Longrass (5-10)
 		- Rockarrot (5-10)
@@ -51,7 +51,7 @@ Primal White Double : SupplyCrate_Level03_Double_C : level 3+ (1-1)
 	
 
 Primal Green : SupplyCrate_Level15_C : level 15+ (2-4)
-	- Scuba [2-2] 25%
+	- Scuba [1-2]
 		- PrimalItemArmor_PScubaGogglesSnorkel_SamKO
 		- PrimalItemArmor_PScubaFlippers_SamKO
 	- Saddles
@@ -65,7 +65,7 @@ Primal Green : SupplyCrate_Level15_C : level 15+ (2-4)
 		- Keratin (10-20)
 		- Hide (10-20)
 		- Narcoberries (10-20)
-	* Eggs
+	* Eggs (1-2)
 		- Carno
 		- Dilo
 		- Pachy
@@ -109,7 +109,7 @@ Primal Blue : SupplyCrate_Level25_C : level 25+ (2-4)
 	* Resources
 		- Angler Gel (10-20)
 		- Pelt (10-20)
-	* Eggs
+	* Eggs (1-2)
 		- Carbonemys (Turtle)
 		- Dilo
 		- Dimorph
@@ -164,7 +164,7 @@ Primal Purple : SupplyCrate_Level35_C : level 35+ (2-4)
 		- Chitin (10-20)
 		- Organic Polymer (10-20)
 		- Obsidian (10-20)
-	* Eggs
+	* Eggs (1-2)
 		- Araneo
 		- Carno
 		- Compy
@@ -222,7 +222,7 @@ Primal Yellow : SupplyCrate_Level45_C : level 45+ (2-3)
 		- Rare Flower (5-10)
 		- Rare Mushroom (5-10)
 		- Plant Species X (5-10)
-	* Eggs
+	* Eggs (1-2)
 		- Allosaurus
 		- Argentavis
 		- Bronto
@@ -271,7 +271,7 @@ Primal Red : SupplyCrate_Level60_C : level 60+ (2-2)
 		- Bronto Platform Saddle [1-2] 25%
 		- Mosasaur Saddle [1-2] 25%
 		- Mosasaur Platform Saddle [1-2] 25%
-	* Eggs
+	* Eggs (1-3)
 		- Argentavis
 		- Pulmonoscorpius
 		- Quetzal
