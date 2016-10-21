@@ -1,6 +1,6 @@
-630601751,760880376,764755314,741203089,764241499,633831197,543859212,743217220,558651608,703724165,727103191,693416678,538827119,566885854,566887000,569786012,756124455,770854372,756389708,600705968,639066374,671677522,771708872
+630601751,760880376,764755314,741203089,764241499,633831197,543859212,743217220,558651608,703724165,727103191,693416678,538827119,566885854,566887000,569786012,774315905,756124455,770854372,756389708,600705968,639066374,671677522,771708872,733089781
 
-TO INSTALL/UPDATE: 543859212
+TO INSTALL/UPDATE: 774315905,733089781
 
 Resource Stacks (630601751)
 http://steamcommunity.com/sharedfiles/filedetails/?id=630601751
@@ -50,6 +50,9 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=566887000
 Meat Spoiler (569786012)
 http://steamcommunity.com/sharedfiles/filedetails/?id=569786012
 
+Paint Mixer (774315905)
+http://steamcommunity.com/sharedfiles/filedetails/?id=774315905
+
 Skilled Saddles (756124455)
 http://steamcommunity.com/sharedfiles/filedetails/?id=756124455
 
@@ -70,6 +73,9 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=671677522
 
 Marker Beams (771708872) ** Admin Spawn Only
 http://steamcommunity.com/sharedfiles/filedetails/?id=771708872
+
+Natural Babies (733089781)
+http://steamcommunity.com/sharedfiles/filedetails/?id=733089781
 
 
 -- Removed ----------------------------------------------------
