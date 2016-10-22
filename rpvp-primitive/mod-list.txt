@@ -1,87 +1,91 @@
-630601751,760880376,760884349,764755314,741203089,764241499,633831197,543859212,743217220,558651608,703724165,727103191,693416678,538827119,566885854,566887000,569786012,774315905,756124455,770854372,756389708,600705968,708257555,639066374,671677522,771708872,733089781
+630601751,760884349,764755314,633831197,543859212,743217220,703724165,727103191,693416678,538827119,566885854,566887000,569786012,774315905,756124455,770854372,756389708,600705968,708257555,639066374,671677522,771708872,733089781
 
-TO INSTALL/UPDATE: 741203089,708257555
+TO INSTALL/UPDATE: 
 
-Resource Stacks (630601751)
+Resource Stacks (630601751) [1 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=630601751
 
-Resource Stacks Scorched Earth (760880376)
-https://steamcommunity.com/sharedfiles/filedetails/?id=760880376
-
-Stackable Foundations (760884349)
+Stackable Foundations (760884349) [2 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=760884349
 
-Castles, Keeps, and Forts Architecture (764755314)
+Castles, Keeps, and Forts Architecture (764755314) [259 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=764755314
 
-ecoRPdecor (741203089)
-http://steamcommunity.com/sharedfiles/filedetails/?id=741203089
-
-eco's Scorched Earth Decor (764241499)
-http://steamcommunity.com/sharedfiles/filedetails/?id=764241499
-
-Bulk Crafters (633831197)
+Bulk Crafters (633831197) [87 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=633831197
 
-Auto Torch (543859212)
+Auto Torch (543859212) [3 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=543859212
 
-Extra Large Storage Box (743217220)
+Extra Large Storage Box (743217220) [0 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=743217220
 
-Bridge (558651608)
-http://steamcommunity.com/sharedfiles/filedetails/?id=558651608
-
-Versatile Raft Mod (703724165)
+Versatile Raft Mod (703724165) [1 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=703724165
 
-Primitive Survival Equipment+ (727103191)
+Primitive Survival Equipment+ (727103191) [313 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=727103191
 
-Reusable Plus (693416678)
+Reusable Plus (693416678) [1 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=693416678
 
-Omnicular (538827119)
+Omnicular (538827119) [5 MB]
 https://steamcommunity.com/sharedfiles/filedetails/?id=538827119
 
-Death Helper (566885854)
+Death Helper (566885854) [4 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=566885854
 
-Pet Finder (566887000)
+Pet Finder (566887000) [3 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=566887000
 
-Meat Spoiler (569786012)
+Meat Spoiler (569786012) [8 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=569786012
 
-Paint Mixer (774315905)
+Paint Mixer (774315905) [1 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=774315905
 
-Skilled Saddles (756124455)
+Skilled Saddles (756124455) [1 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=756124455
 
-Armour Stand (770854372)
+Armour Stand (770854372) [20 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=770854372
 
-Builder's Helmet (756389708)
+Builder's Helmet (756389708) [2 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=756389708
 
-ORP2 - Offline Raid Protection (600705968)
+ORP2 - Offline Raid Protection (600705968) [24 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=600705968
 
-Color Blind Friendly Supply Drops (708257555)
+Color Blind Friendly Supply Drops (708257555) [1 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=708257555
 
-PvP Safe Zones (639066374) ** Admin Spawn Only
+PvP Safe Zones (639066374) [4 MB] ** Admin Spawn Only
 http://steamcommunity.com/sharedfiles/filedetails/?id=639066374
 
-Founder Stone (671677522) ** Admin Spawn Only
+Founder Stone (671677522) [6 MB] ** Admin Spawn Only
 http://steamcommunity.com/sharedfiles/filedetails/?id=671677522
 
-Marker Beams (771708872) ** Admin Spawn Only
+Marker Beams (771708872) [5 MB] ** Admin Spawn Only
 http://steamcommunity.com/sharedfiles/filedetails/?id=771708872
 
-Natural Babies (733089781) ** Admin Spawn Only
+Natural Babies (733089781) [21 MB] ** Admin Spawn Only
 http://steamcommunity.com/sharedfiles/filedetails/?id=733089781
+
+
+-- Removed for Size or Possible Future Addition ---------------
+
+Resource Stacks Scorched Earth (760880376) [1 MB]
+https://steamcommunity.com/sharedfiles/filedetails/?id=760880376
+
+ecoRPdecor (741203089) [1,181 MB]
+http://steamcommunity.com/sharedfiles/filedetails/?id=741203089
+
+eco's Scorched Earth Decor (764241499) [366 MB]
+http://steamcommunity.com/sharedfiles/filedetails/?id=764241499
+
+Bridge (558651608) [60 MB]
+http://steamcommunity.com/sharedfiles/filedetails/?id=558651608
+
 
 
 -- Removed ----------------------------------------------------
