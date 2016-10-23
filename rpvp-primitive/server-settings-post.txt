@@ -1,0 +1,74 @@
+[list]
+	[*]No Metal Structures, No Explosives, No Fabricator (and all items that require one)
+	[list]
+		[*]For an enjoyable primitive gameplay experience.
+	[/list]
+	[*]No Natural Spawning Gigas, Titans, or Wyverns.
+	[list]
+		[*]These dinos are considered overpowered, especially for primitive gameplay in the stone age.
+		[*]Admins may spawn a wild fire wyvern to escalate the risk in some areas (e.g. the volcano).
+	[/list]
+	[*]5x Gather
+	[list]
+		[*]Balanced gathering for builders.
+	[/list]
+	[*]10x XP
+	[list]
+		[*]Helps new players progress faster with player stats and unlocked engrams.
+		[*]New players should hit level 30+, build a small keep, and have an ORP2 pillar for offline raid protection... within their first session.
+	[/list]
+	[*]10x Tame, 20x Breeding
+	[list]
+		[*]Faster taming and breeding allows players to enjoy the rest of the game.
+	[/list]
+	[*]Longer Days
+	[list]
+		[*]Get more done during the day.
+	[/list]
+	[*]Gamma Disabled
+	[list]
+		[*]Ark looks amazing at night, especially with torches, forges, and campfires.  This helps with the RP aspect of night gameplay.
+	[/list]
+	[*]Crosshairs Disabled
+	[list]
+		[*]This is the stone age... wtf are crosshairs?
+	[/list]
+	[*]Smaller Tribes (6 members max)
+	[list]
+		[*]Nobody enjoys mega alpha tribes, except the mega alpha tribe.  
+		[*]This should encourage more friendly PvP engagements between tribes, including larger groups of players.
+		[*]Most tribes are typically 1-3 members.  This will help the smaller tribes from becoming completely overwhelmed.
+		[*]Smaller tribes may still form alliances, which offers a more political RP experience.
+	[/list]
+	[*]Structure Decay
+	[list]
+		[*]Abandoned structures won't become forever ruins.
+	[/list]
+	[*]Resources Spawn Close to Structures and Dinos (75% closer)
+	[list]
+		[*]Allows players to build closer to resources without risking disrupting them from re-spawning.
+	[/list]
+	[*]Resources Spawn Faster (2x)
+	[list]
+		[*]Reduces the need to travel far for extra resources.
+	[/list]
+	[*]Admin Command Logging
+	[list]
+		[*]Admins will rarely use commands.  When they do, you'll know about it.
+	[/list]
+	
+	[*]Increased Sturcture Damage in Caves/Underworld/Underwater/Ruins (10x)
+	[list]
+		[*]Greatly discourage building in isolated areas.  The Center map is already a very large map above the surface, don't turtle in hidden areas.
+	[/list]
+	[*]Reduced Flyer Combat Stats
+	[list]
+		[*]Reduced damage for all flyers (50%), making them more viable for logistics (e.g. moving dinos and scouting) rather than for combat.
+	[/list]
+	[*]No Quetz Platform Saddle
+	[list]
+		[*]Reduces quetz abuse/exploits, while the normal saddle allows players to use the quetz more logistically for moving larger dinos.
+	[/list]
+[/list]
+
+If you're really interested in the actual server setting files, they are available on [url=https://github.com/nytraven/legacy-ark/tree/master/rpvp-primitive]GitHub here[/url].
