@@ -1,3 +1,55 @@
-[list]
-	[*]
-[/list]
+[code][b]BY JOINING AN ARK LEGACY SERVER YOU ARE AGREEING TO FOLLOW ALL RULES LISTED BELOW AND ARE AWARE THAT A FAILURE TO DO SO MAY RESULT IN DELETION OF STRUCTURES/DINOS AND/OR BAN.[/b][/code]
+
+[h1]General Rule[/h1]
+
+This is a PVP Server, PVP is encouraged, but keep in mind that if your actions hurt the overall server population, then you risk being banned.
+
+[h1]Kings (a.k.a. Admins)[/h1]
+
+[olist]
+	[*]No aggressive acts against the Kings. Kings are the rullers of the land.  They don't engage in PvP, which allows them to focus on taking care of the server and community. Anyone caught doing anything to the Kings (on purpose) may be permanently banned. 
+	[*]No disrespecting the Kings or the server. 
+	[*]No arguing with the Kings based on decisions they make. (Take it to Steam/The Forums)
+[/olist]
+
+[h1]Rules of the Land (a.k.a. Server)[/h1]
+
+[olist]
+	[*]No religious, racial, or homophobic slurs in global chat/tribe names/player names/dino names.
+	[*]No soliciting or advertising of any kind without consent of a King.
+	[*]No cheating. The use of 3rd party programs (Aimbot, ESP, etc.), bugs, and/or glitches is strictly forbidden. This also includes Exploits of bugs or glitches.
+	[*]Tribes are limited to 6 members.
+[/olist]
+
+[h1]Building Rules[/h1]
+
+[olist]
+	[*]Tribes are limited to 2 ORP pillars for offline raid protection. All other structures and dinos located outside of these ORP areas are considered free game and offline raiding rules don't apply.
+	[*]Your protected structure is limited to the size of the ORP Bubble, choose your locations wisely.
+	[*]No using another tribes ORP in any way/shape/form.
+	[*]No Building on Obelisks, Artifact Caves, Floating Island, Penguin Spawns, Deep Sea Loot Crates, or the edge of the world cliffs (must be 4 foundations distance from edge).
+	[*]Otherwise, building in all other caves and underworld locations are allowed, although greatly discouraged by taking 10x damage.
+	[*]NO pillar/foundation spam. Clean up taming pens after use. If you are found in violation of this rule, the destroytribestructures command may be used (which may destroy ALL of your structures). Pillars/Foundations may be used within your walls.
+[/olist]
+
+[h1]Raiding Rules[/h1]
+
+[olist]
+	[*]Offline raiding is allowed, although greatly discouraged by the use of ORP pillars.
+	[*]A tribe, or tribe alliance cannot raid an enemy tribe more than once every 48 hours. If the tribe that was attacked, then retaliates, they are fair game again.
+	[*]48 hour recovery cooldown requests will only be granted if the raided tribe does the following:
+	[olist]
+		[*]Must post the request in the Steam group discussions within 12 hours of being raided.
+		[*]The request must include a screenshot of your raided structure and tribe logs as proof of the raid.
+	[/olist]
+	[*]Any offensive structure that is used for a raid must be destroyed after the raid is done.
+	[*]No Raiding your own tribe from within. IF you choose to leave a tribe, you leave with what the owner of the tribe says is yours, or nothing. This is to prevent complaints of inside raiding. F12 (screenshot) what the owner says is yours so there is no confusion.
+[/olist]
+
+[h1]Prisoner Rules (a.k.a. Caging/Torpor Sedation)[/h1]
+
+[olist]
+	[*]Prisoners must be at least level 70, unless they attack or are a member of a raiding tribe.
+	[*]Prisoners may only be confined for 30 minutes outside of a raid.
+	[*]Prisoners during a raid may be confined for the duration of the raid for both the attacking and defending sides.
+[/olist]
