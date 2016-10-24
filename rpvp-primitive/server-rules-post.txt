@@ -1,14 +1,13 @@
-[code][b]BY JOINING AN ARK LEGACY SERVER YOU ARE AGREEING TO FOLLOW ALL RULES LISTED BELOW AND ARE AWARE THAT A FAILURE TO DO SO MAY RESULT IN DELETION OF STRUCTURES/DINOS AND/OR BAN.[/b][/code]
+[code][b]BY JOINING AN ARK LEGACY SERVER YOU ARE AGREEING TO FOLLOW ALL RULES LISTED BELOW AND ARE AWARE THAT A FAILURE TO DO SO MAY RESULT IN DELETION OF STRUCTURES/DINOS AND/OR A BAN.[/b][/code]
 
 [h1]General Rule[/h1]
 
-This is a PVP Server, PVP is encouraged, but keep in mind that if your actions hurt the overall server population, then you risk being banned.
+[b]This is a PVP Server, PVP is encouraged.[/b] However, keep in mind that if your actions border on harassment or griefing, this hurts the overall server population, you will first be warned and repeat offenses may result in a ban.
 
 [h1]Kings (a.k.a. Admins)[/h1]
 
 [olist]
-	[*]No aggressive acts against the Kings. Kings are the rullers of the land.  They don't engage in PvP, which allows them to focus on taking care of the server and community. Anyone caught doing anything to the Kings (on purpose) may be permanently banned. 
-	[*]No disrespecting the Kings or the server. 
+	[*]No aggressive acts against the Kings. They don't engage in PvP, which allows them to focus on taking care of the server and community. Anyone caught doing anything to the Kings (on purpose) may be permanently banned. 
 	[*]No arguing with the Kings based on decisions they make. (Take it to Steam/The Forums)
 [/olist]
 
