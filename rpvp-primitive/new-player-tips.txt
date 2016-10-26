@@ -1,0 +1,24 @@
+[olist]
+	[*]Resources stack in higher quantities.  You can quickly become overburdened with large stacks of berries and not be aware of it.
+	[*]All mod engrams are found AFTER the normal Ark engrams.  Make sure you check for any that may be available.
+	[*]Beacons progressively provide resources, dino eggs, and saddles.  These can help provide a little boost for new players.
+	[*]Most white and green beacons can be found near the beaches along the redwoods and southern jungle.
+	[*]Learn and craft a speedboat raft.  This will help greatly during the early game until you tame your first flyer.
+	[*]There is a "meat spoiler" that will quickly spoil meat for your narcotic crafting, while playing a beat.
+	[*]There is a "builder's helmet" that you can craft, which will allow you to pick up your structures without destroying them.
+	[*]There is an "obsidian multitool", which may be your best crafting tool to aim for.  It's your primitive swiss-knife for gatherers.
+	[*]There is an "extra large storage box", which you may prefer over the standard large storage box.  Don't miss it!
+	[*]Learn about [url=https://steamcommunity.com/groups/ark-legacy/discussions/1/340412628175348526/]Legacy Points of Interest[/url] that may be avaialable for your use.
+	[*]Currently, the keep structures are rated as "metal", which is why most of the doors and gates are unavailable.  This should be resoved on the next update of the keep mod.
+	[list]
+		[*]You can use some of the vanilla reinforced doors in the stone tier in the meantime and replace them later.
+	[/list]
+	[*]There are "auto torches" that require no fuel, while also offering the option of auto-lighting during the night.
+	[*]There are "skill" saddles available for the anklyo and doed.  Each of these will increase their speed and carry weight, while also reducing the weights of stone, metal, and flint while in their inventory.
+	[*]There are "trap" structures that you can use within your castle design to help with raid defense.
+	[*]The "stackable foundstaions" allow you to stack these foundations on top of eachother, to help level out an area for your castle.  These work far better than the traditional pillars, ceilings, and wall combination.
+	[*]The "omnicular" spyglass provides healthbars of dinos and allows you to remotely open/close your doors and windows.  Unfortunately, it doesn't provide any info on players or indicate the maturity level of dinos. But...
+	[*]The "binoglass" spyglass compliments the "omnicular" by providing the missing info.
+	[*]Some wild dinos may spawn as juvenile or adolescent.  After taming these normally, if you unclaim and re-claim them, you'll initiate the imprinting process for the duration of their maturity.
+	[*]There are "reusable" versions of the spear, bolla, parachute, flare gun, and grappling hook.  You no longer have an excuse to not have a parachute at all times.
+[/olist]
