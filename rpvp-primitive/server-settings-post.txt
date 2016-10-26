@@ -52,9 +52,9 @@
 	[list]
 		[*]Reduces the need to travel far for extra resources.
 	[/list]
-	[*]Admin Command Logging
+	[*]Admin Command Logging (disabled)
 	[list]
-		[*]Admins will rarely use commands.  When they do, you'll know about it.
+		[*]The admins don't participate in PvP.  They will be focused on building/preparing PvP events for the rest of the community to enjoy.  This would only flood the chat with commands as the admins spawn in resources and structures for the event.
 	[/list]
 	
 	[*]Increased Sturcture Damage in Caves/Underworld/Underwater/Ruins (10x)

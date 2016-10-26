@@ -4,20 +4,27 @@
 
 [b]This is a PVP Server, PVP is encouraged.[/b] However, keep in mind that if your actions border on harassment or griefing, this hurts the overall server population, you will first be warned and repeat offenses may result in a ban.
 
-[h1]Kings (a.k.a. Admins)[/h1]
+[h1]Legacy Admins[/h1]
 
 [olist]
-	[*]No aggressive acts against the Kings. They don't engage in PvP, which allows them to focus on taking care of the server and community. Anyone caught doing anything to the Kings (on purpose) may be permanently banned. 
-	[*]No arguing with the Kings based on decisions they make. (Take it to Steam/The Forums)
+	[*]No aggressive acts against the admins. They don't engage in PvP, which allows them to focus on taking care of the server and community. Anyone caught doing anything to the admins (on purpose) may be permanently banned. 
+	[*]No arguing with the admins based on decisions they make. (Take it to Steam/The Forums)
+	[*]Some "Legacy" structures exist as community hubs for crafting/trading purposes.  While the structures are protected, players and dinos are not.
+	[*]Some "Legacy" structures are built for your to raid, which will include special loot.  These will be clearly marked with a unique beacon when they're ready for raiding.
+	[*]Some "Legacy" structures will be used for other events and will be protected from damage.
+	[*]The primary "Legacy" castle will also be protected from damage and may also be used for some events.  Unless announced by an admin, PvP is not allowed at the Legacy castle.
 [/olist]
 
 [h1]Rules of the Land (a.k.a. Server)[/h1]
 
 [olist]
 	[*]No religious, racial, or homophobic slurs in global chat/tribe names/player names/dino names.
-	[*]No soliciting or advertising of any kind without consent of a King.
+	[*]No soliciting or advertising of any kind without consent of an admin.
 	[*]No cheating. The use of 3rd party programs (Aimbot, ESP, etc.), bugs, and/or glitches is strictly forbidden. This also includes Exploits of bugs or glitches.
-	[*]Tribes are limited to 6 members.
+	[*]This is a PvP server, expect PvP.  Nobody, especially the admins, want to hear your cries of defeat. Learn from it and play better.
+	[*]Ark is still in development, which you may experience "bugs" that impact your castle and/or dinos.  The admins may not help with the search or restoration of any lost dinos.
+	[*]Tribes are limited to 6 members.  Don't request to have this increased.
+	[*]Don't even bring up the word "wipe" in chat for any reason.  If we feel that a wipe is necessary, we will start a discussion in the steam group.
 [/olist]
 
 [h1]Building Rules[/h1]
@@ -34,7 +41,7 @@
 [h1]Raiding Rules[/h1]
 
 [olist]
-	[*]Offline raiding is allowed, although greatly discouraged by the use of ORP pillars.
+	[*]Offline raiding is allowed, although greatly discouraged by the use of ORP pillars, which provide 10x protection.
 	[*]A tribe, or tribe alliance cannot raid an enemy tribe more than once every 48 hours. If the tribe that was attacked, then retaliates, they are fair game again.
 	[*]48 hour recovery cooldown requests will only be granted if the raided tribe does the following:
 	[olist]
