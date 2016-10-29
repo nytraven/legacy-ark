@@ -42,6 +42,7 @@
 
 [olist]
 	[*]Offline raiding is allowed, although greatly discouraged by the use of ORP pillars, which provide 10x protection.
+	[*]No killing passive dinos.  You can tranq them or find other ways to move them, without killing them.
 	[*]A tribe, or tribe alliance cannot raid an enemy tribe more than once every 48 hours. If the tribe that was attacked, then retaliates, they are fair game again.
 	[*]48 hour recovery cooldown requests will only be granted if the raided tribe does the following:
 	[olist]
