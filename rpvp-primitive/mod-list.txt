@@ -1,6 +1,6 @@
-630601751,760884349,764755314,779986444,633831197,543859212,743217220,703724165,727103191,693416678,538827119,566885854,566887000,569786012,774315905,756124455,770854372,756389708,600705968,708257555,639066374,671677522,771708872,733089781,765097618,688621157
+630601751,760884349,764755314,779986444,633831197,543859212,743217220,703724165,727103191,693416678,538827119,566885854,566887000,569786012,774315905,756124455,770854372,600705968,708257555,639066374,671677522,771708872,733089781,765097618,746388215
 
-TO INSTALL/UPDATE: 765097618
+TO INSTALL/UPDATE: 
 
 Resource Stacks (630601751) [1 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=630601751
@@ -53,9 +53,6 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=756124455
 Armour Stand (770854372) [20 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=770854372
 
-Builder's Helmet (756389708) [2 MB]
-http://steamcommunity.com/sharedfiles/filedetails/?id=756389708
-
 ORP2 - Offline Raid Protection (600705968) [24 MB]
 http://steamcommunity.com/sharedfiles/filedetails/?id=600705968
 
@@ -74,11 +71,11 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=771708872
 Natural Babies (733089781) [21 MB] ** Admin Spawn Only
 http://steamcommunity.com/sharedfiles/filedetails/?id=733089781
 
-DebellicA's RTG Defenses (765097618) [1MB] ** Admin Spawn Only
+DebellicA's RTG Defenses (765097618) [1 MB] ** Admin Spawn Only
 http://steamcommunity.com/sharedfiles/filedetails/?id=765097618
 
-Admin Toolbox 2.3 (688621157) [154 MB] ** Admin Spawn Only
-http://steamcommunity.com/sharedfiles/filedetails/?id=688621157
+Informer (746388215) [1 MB] ** Admin Only
+http://steamcommunity.com/sharedfiles/filedetails/?id=746388215
 
 
 -- Removed for Size or Possible Future Addition ---------------
@@ -125,4 +122,10 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=710659758
 
 Rotten Box (760561402) ** Too Slow
 http://steamcommunity.com/sharedfiles/filedetails/?id=760561402
+
+Admin Toolbox 2.3 (688621157) [154 MB] ** Buffs Don't All Work
+http://steamcommunity.com/sharedfiles/filedetails/?id=688621157
+
+Builder's Helmet (756389708) [2 MB] ** OP with Catapults
+http://steamcommunity.com/sharedfiles/filedetails/?id=756389708
 
